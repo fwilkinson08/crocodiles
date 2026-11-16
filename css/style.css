@@ -1,44 +1,55 @@
+
 body{
     background: #f7f7f7;
     color: #333333
-font-family: "Merriweather sans", sans-serif;
-}
+    font-family: "Merriweather sans", sans-serif;}
 
-h1, h2, h3{
-    font-family: "Merriweather", serif;
-}
 section, header {
-width: 80%;
-max-width: 800px;
-margin: auto;
-color:blueviolet
+    width: 80%;
+    max-width: 800px;
+    margin: auto;}
 
-}
-header p {font-family: "Merriweather", serif;
-}
+h1, h2, h3 {
+    font-family: "Merriweather", serif}
+
+p {
+    font-family: "Merriweather sans", sans-serif}
+
+header p {
+    font-family: "Merriweather Sans", sans-serif;
+    font-size: 1.5rem
+    font-weight:300}
+
 h1 {font-size: 4.300rem;
-    line-height:1.1rem;
-margin-top: 2em;
-color:rgb(159, 0, 98)}
+    line-height:1.1;
+    margin-top: 2em;
+    color:rgb(159, 0, 98)}
 
 h2 {font-size: 2.986rem;
     font-weight: 300;
     font-style:oblique;
-margin-top: 3em 0 1em 0;
-color:cadetblue}
+    margin-top: 3em 0 1em 0;
+    color:rgb(52, 100, 102)}
 
 h3 {font-size: 2.074rem;
-margin-top: 3em 0 1em 0;
-color:rgb(1, 85, 53)}
-p, blockquote{
+    margin-top: 3em 0 1em 0;
+    color:rgb(76, 10, 92)}
+
+blockquote{
+    margin-bottom: 1.5rem;
+    line-height: 1.5}
+
+blockquote{
     font-family: "Merriweather", serif;
     margin-bottom: 1.5rem;
     line-height:1.5rem;
     font-style: italic;
     hanging-punctuation: first;
-    margin: 4em 0 0em 0;
-}
+    text-indent: -0.6rem;
+    margin: 4em 0 2em 0;}
+
 footer{
     text-align: center;
     margin: 4em 0 0em 0;
 }
+
