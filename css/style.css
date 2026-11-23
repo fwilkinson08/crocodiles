@@ -12,7 +12,7 @@ section, header {
 h1, h2, h3 {
     font-family: "Merriweather", serif}
 
-p {
+p, ul {
     font-family: "Merriweather sans", sans-serif}
 
 header p {
