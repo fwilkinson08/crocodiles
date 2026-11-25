@@ -85,7 +85,7 @@ a{
 }
 
 a:hover{
-    color: #f3b5ee;
+    color: #957082;
     transition: all 0.3s ease-in-out;
 }
 
@@ -148,5 +148,5 @@ footer a {
 }
 
 footer a:hover{
-    color: #f3b5ee;
+    color: #957082
 }
